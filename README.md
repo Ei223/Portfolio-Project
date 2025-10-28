@@ -31,10 +31,10 @@ To run this project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Ei223/Portfolio-Project.git
 
 # 2. Navigate into the project folder
-cd your-repo-name
+cd Portfolio-Project
 
 # 3. Install dependencies
 npm install
